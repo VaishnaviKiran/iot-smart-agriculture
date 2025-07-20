@@ -9,12 +9,12 @@
 - DHT11 sensor
 - Capacitors
 
-![SetUp](IMAGES/project_setup.png)
+![SetUp](images/project_setup.png)
 
 ## Hardware setup & BlockDiagram:
 -->Each XBee module is interfaced with a NodeMCU board, along with capacitors for stability. The transmitter side is connected to a DHT11 sensor.
 
-![Block Diagram](IMAGES/blockdiagram.png)
+![Block Diagram](images/blockdiagram.png)
 
 ## Technologies Used:
 - Arduino IDE
@@ -35,7 +35,7 @@
 | 'Images'                 | List of Images  |
 
 ## RESULTS:
-![Results](IMAGES/results.png)
+![Results](images/results.png)
 
 ## Author Details:
 
