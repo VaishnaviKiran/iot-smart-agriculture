@@ -40,6 +40,5 @@
 ## Author Details:
 
 SRI VAISHNAVI KIRAN NUKALA
-PHONE NO: +1 (518)-847-6845
 EMAIL: vaishnavinukala03@gmail.com
 
